@@ -19,17 +19,17 @@ Die zentrale Frage lautet:
 ## Workflow
 
 CSV-Datei  
-↓  
+  
 Datenbereinigung mit Pandas  
-↓  
+  
 SQLite-Datenbank  
-↓  
+  
 SQL-Abfragen  
-↓  
+  
 Analyse  
-↓  
+  
 Visualisierung  
-↓  
+  
 Ergebnisse
 
 ## Analyse
